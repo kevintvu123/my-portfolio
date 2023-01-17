@@ -35,6 +35,7 @@ export default function About({ }: Props) {
                 <p className='text-base'>
                     I am a Fullstack Software Developer with experience building dynamic and scalable web applications in JavaScript, Python, React.js, Redux.js, SQL and HTML/CSS. I also have an exceptional background in STEM and patient care. I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product while delivering a seamless user experience.
                 </p>
+                <a href='../assets/Kevin_Vu_Resume.pdf'>Resume</a>
             </div>
         </motion.div>
     )
