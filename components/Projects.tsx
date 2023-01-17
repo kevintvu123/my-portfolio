@@ -26,6 +26,7 @@ export default function Projects({ }: Props) {
                         // viewport={{ once: true }}
                         src='https://media.licdn.com/dms/image/C4E2DAQHlskwt5Snoeg/profile-treasury-image-shrink_800_800/0/1673488585319?e=1674547200&v=beta&t=0o7_bKVUmisWsD0Lpwk8274G9pCRd2Ay7e6O3EPpUew'
                         alt=''
+                        className='-mb-20 md:mb-0 flex-shrink-0 w-0 h-0 rounded-full object-cover md:rounded-lg md:w-60 md:h-32 xl:w-[600px] xl:h-[300px]'
                     />
                     <div className='space-y-10 px-0 md:px-10 max-w-6xl'>
                         <h4 className='text-4xl font-semibold text-center'>
@@ -48,6 +49,7 @@ export default function Projects({ }: Props) {
                         // viewport={{ once: true }}
                         src='https://media.licdn.com/dms/image/C4E2DAQH8-vr6efoq4Q/profile-treasury-image-shrink_800_800/0/1673530905109?e=1674547200&v=beta&t=HSLOLyk_ns7u4Vy-Vst1_dqZZGx--gi77kCE64MSOSQ'
                         alt=''
+                        className='-mb-20 md:mb-0 flex-shrink-0 w-0 h-0 rounded-full object-cover md:rounded-lg md:w-60 md:h-32 xl:w-[600px] xl:h-[300px]'
                     />
                     <div className='space-y-10 px-0 md:px-10 max-w-6xl'>
                         <h4 className='text-4xl font-semibold text-center'>
@@ -70,6 +72,7 @@ export default function Projects({ }: Props) {
                         // viewport={{ once: true }}
                         src='https://media.licdn.com/dms/image/C4E2DAQFp3bMiO2ZIJg/profile-treasury-image-shrink_800_800/0/1673532198335?e=1674547200&v=beta&t=TRWueOURGD-A5E0UiiTlfR4Jdd0C0ayF1_mtsKGau2c'
                         alt=''
+                        className='-mb-20 md:mb-0 flex-shrink-0 w-0 h-0 rounded-full object-cover md:rounded-lg md:w-60 md:h-32 xl:w-[600px] xl:h-[300px]'
                     />
                     <div className='space-y-10 px-0 md:px-10 max-w-6xl'>
                         <h4 className='text-4xl font-semibold text-center'>
