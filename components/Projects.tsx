@@ -24,7 +24,7 @@ export default function Projects({ }: Props) {
                         transition={{ duration: 1.2 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         // viewport={{ once: true }}
-                        src='https://media.licdn.com/dms/image/C4E2DAQHlskwt5Snoeg/profile-treasury-image-shrink_800_800/0/1673488585319?e=1674547200&v=beta&t=0o7_bKVUmisWsD0Lpwk8274G9pCRd2Ay7e6O3EPpUew'
+                        src='https://camo.githubusercontent.com/7d5b11a7af09f3f5f1c4569a44ffbcb08fa31cfc61d8d56baffe97a75e25f479/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313033393635373736353432373232343730392f313036313832353033313633313534343438312f696d6167652e706e67'
                         alt=''
                         className='-mb-20 md:mb-0 flex-shrink-0 w-0 h-0 rounded-full object-cover md:rounded-lg md:w-60 md:h-32 xl:w-[600px] xl:h-[300px]'
                     />
@@ -47,7 +47,7 @@ export default function Projects({ }: Props) {
                         transition={{ duration: 1.2 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         // viewport={{ once: true }}
-                        src='https://media.licdn.com/dms/image/C4E2DAQH8-vr6efoq4Q/profile-treasury-image-shrink_800_800/0/1673530905109?e=1674547200&v=beta&t=HSLOLyk_ns7u4Vy-Vst1_dqZZGx--gi77kCE64MSOSQ'
+                        src='https://camo.githubusercontent.com/25e98b1cbc5ab2d4289c99c6442384eb49a9b5859b5eee6dee2da1a33ee8ffce/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313032373036333534373037323631343438322f313035333335393432363537343232393632352f696d6167652e706e67'
                         alt=''
                         className='-mb-20 md:mb-0 flex-shrink-0 w-0 h-0 rounded-full object-cover md:rounded-lg md:w-60 md:h-32 xl:w-[600px] xl:h-[300px]'
                     />
@@ -70,7 +70,7 @@ export default function Projects({ }: Props) {
                         transition={{ duration: 1.2 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         // viewport={{ once: true }}
-                        src='https://media.licdn.com/dms/image/C4E2DAQFp3bMiO2ZIJg/profile-treasury-image-shrink_800_800/0/1673532198335?e=1674547200&v=beta&t=TRWueOURGD-A5E0UiiTlfR4Jdd0C0ayF1_mtsKGau2c'
+                        src='https://user-images.githubusercontent.com/106125123/203065526-08449828-1932-48c8-bffd-e2293ee47c03.png'
                         alt=''
                         className='-mb-20 md:mb-0 flex-shrink-0 w-0 h-0 rounded-full object-cover md:rounded-lg md:w-60 md:h-32 xl:w-[600px] xl:h-[300px]'
                     />
