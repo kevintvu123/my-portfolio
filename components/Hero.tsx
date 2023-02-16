@@ -9,7 +9,7 @@ export default function Hero({ }: Props) {
 
     const [text, count] = useTypewriter({
         words: [
-            "Hey there! The Name's Kevin Vu",
+            "The Name's Kevin Vu",
             "Guy-who-loves-Coffee.tsx",
             "<ButLovesToCodeMore />",
         ],
@@ -22,7 +22,7 @@ export default function Hero({ }: Props) {
             <BackgroundCircles />
             <img
                 className='relative rounded-full h-32 w-32 mx-auto object-cover'
-                src='https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/56410987_1003058286557463_3903780463499542528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4ClfSuuWGR0AX9b_zmY&_nc_ht=scontent-iad3-2.xx&oh=00_AfBbqvh-v56HRe7L_sd2EYaVJOJ5vfleZVsN4Uwu-GOm4w&oe=63ED37AB'
+                src='https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/56410987_1003058286557463_3903780463499542528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_aDmw8_pa6IAX8FeUSq&_nc_ht=scontent-iad3-2.xx&oh=00_AfB2r5Z76kgpVGV2A_kVk32DmemcWsixjI2QxXkXu9Bnjw&oe=6415DDEB'
                 alt=''
             />
             <div className='z-20'>
