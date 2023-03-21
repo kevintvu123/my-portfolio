@@ -48,7 +48,7 @@ export default function Home() {
           <div className='flex items-center justify-center'>
             <img
               className='h-10 w-10 rounded-full filter grayscale hover:grayscale-0'
-              src='https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/56410987_1003058286557463_3903780463499542528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_aDmw8_pa6IAX8FeUSq&_nc_ht=scontent-iad3-2.xx&oh=00_AfB2r5Z76kgpVGV2A_kVk32DmemcWsixjI2QxXkXu9Bnjw&oe=6415DDEB' />
+              src='https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/56410987_1003058286557463_3903780463499542528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=kuY1yY-z69gAX_iGeHI&_nc_ht=scontent-iad3-1.xx&oh=00_AfB-jN7K-uoXp9-aFtNzFjEg7VcGCvtx8Lvw7IXz9E2p-Q&oe=6441272B' />
           </div>
         </footer>
       </Link>
