@@ -34,7 +34,7 @@ export default function About({ }: Props) {
                     Here is a <span className='underline decoration-[#F7AB0A]/50'>little</span> background
                 </h4>
                 <p className='text-base'>
-                    I am a Fullstack Software Developer with experience building dynamic and scalable web applications in JavaScript, Python, React.js, Redux.js, SQL and HTML/CSS. I also have an exceptional background in STEM and patient care. I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product while delivering a seamless user experience.
+                    I am a Fullstack Software Developer with experience building dynamic and scalable web applications in JavaScript, Python, React.js, Redux.js, SQL and HTML/CSS. I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible product while delivering a seamless user experience.
                 </p>
                 {/* <a className='text-2xl font-semibold text-center underline decoration-[#F7AB0A]/50' href='../assets/resume.pdf' download>View Resume</a> */}
                 <Link href='/resume/resume.pdf' className='text-2xl font-semibold text-center underline decoration-[#F7AB0A]/50'>
